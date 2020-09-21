@@ -1,0 +1,12 @@
+{
+  "name": "bb-cookie-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Ronald Jesse <ronald@benedenboven.nl>",
+  "license": "ISC"
+}
