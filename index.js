@@ -1,4 +1,4 @@
-export default class CookieNotifictation {
+export default class CookieNotification {
 
     constructor() {
         let defaults = {
